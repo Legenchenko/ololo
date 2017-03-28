@@ -1,0 +1,17 @@
+$color: red;
+
+.ololo {
+    color: $color;
+    display: flex;
+}
+
+
+.thumbnail {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.thumbnail img {
+	max-width: 400px;
+	max-height: 300px;
+}
